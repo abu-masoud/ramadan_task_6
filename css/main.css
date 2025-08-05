@@ -1,0 +1,35 @@
+@import url("./base.css");
+
+.header {
+  background-image: url("../img/bg-masthead.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.links ul li a,
+.navbar__logo a {
+  color: white;
+}
+
+.navbar__logo {
+  font-size: 23px;
+}
+
+.header a:hover {
+  color: orange;
+}
+
+.hero {
+  flex-direction: column;
+}
+
+.txt-width {
+  width: 500px;
+  text-align: center;
+}
+
+.header .btn:hover {
+  background-color: orange;
+}
