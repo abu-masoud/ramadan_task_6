@@ -27,11 +27,7 @@
   justify-content: center;
 }
 
-.txt-width {
-  width: 500px;
-  text-align: center;
-}
-
 .header .btn:hover {
   background-color: orange;
 }
+
